@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 系统学习助手"
+  short_description: "结合产品源码与论文研究 Agent 机制，规划学习、指导实验并验证掌握程度"
+  default_prompt: "使用 $learning-coach，读取我的学习仓库，围绕当前 Agent 主题制定研究与实践计划。"
