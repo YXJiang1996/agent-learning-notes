@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "agent-teams",
+      "title": "Agent Teams 多 Agent 协作",
+      "path": "topics/agent-teams/overview.md",
+      "prerequisites": [],
+      "dimensions": {
+        "概念理解": {
+          "status": "学习中",
+          "evidence": []
+        },
+        "源码追踪": {
+          "status": "未评估",
+          "evidence": []
+        },
+        "设计判断": {
+          "status": "未评估",
+          "evidence": []
+        },
+        "独立实现": {
+          "status": "未评估",
+          "evidence": []
+        },
+        "效果验证": {
+          "status": "未评估",
+          "evidence": []
+        }
+      },
+      "weak_points": [],
+      "next_action": "阅读第一课并回答三道检查题，据此安排 TS 实验",
+      "review_on": null,
+      "updated_on": "2026-09-11"
+    }
+  ]
+}

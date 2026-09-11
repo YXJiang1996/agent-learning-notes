@@ -76,4 +76,13 @@ Skill 文件和个人学习记录分别保存。安装后，每次指定学习�
 
 ## 当前状态
 
-已完成学习助手 Skill、中文流程规范、八类文档模板和进度校验脚本。主题分析、实验和个人进度将在实际学习中积累。
+已完成学习助手 Skill、中文流程规范、八类文档模板和进度校验脚本。
+
+当前学习主题为 [Agent Teams](topics/agent-teams/overview.md)，以 Claude Code 为主线，使用 TypeScript 演示，每周约 5 小时。
+
+- [学习计划](plans/agent-teams/plan.md)
+- [第一课：协作运行时](topics/agent-teams/lessons/01-team-runtime.md)
+- [第一课检查题](assessments/2026-09-11-agent-teams-01.md)
+- [当前进度](progress/dashboard.md)
+
+第一课已备好，检查题待作答；尚未判定掌握，也未执行多 Agent 实验。
