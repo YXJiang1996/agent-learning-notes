@@ -86,3 +86,11 @@ Skill 文件和个人学习记录分别保存。安装后，每次指定学习�
 - [当前进度](progress/dashboard.md)
 
 已完成 [Claude Code 2.1.198 最小团队实测](experiments/claude-teams-2.1.198/report.md)，包含真实工具事件、任务 JSON 和退出观察。课程已改为产品证据优先；实验由助手操作，学习者掌握程度仍待验证。
+
+### Agent Teams 阶段总结（2026-09-12）
+
+- [知识点总结](topics/agent-teams/knowledge-summary.md)：创建与存储、任务归属、领取锁、依赖、消息、完成验收、生命周期和故障检测边界。
+- [本轮学习记录](sessions/2026-09-12-agent-teams-03.md)：原始作答、疑问与更正，区分已讲解和已验证。
+- [进度总览](progress/dashboard.md)：概念理解与设计判断继续学习，源码和实现维度尚未评估。
+
+下一步为上下文构造、执行循环与权限边界；按学习者要求暂缓测验及新增实验。
