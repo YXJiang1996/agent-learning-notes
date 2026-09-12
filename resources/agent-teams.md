@@ -16,3 +16,7 @@ Claude 官方将团队描述为负责人、队友、共享任务列表和通信�
 LangChain 的对照模式把子 Agent 包装成工具，由主 Agent 决定调用和汇总。它适合用来研究中心式委派，不等同于 Claude 的团队实现。[来源](https://docs.langchain.com/oss/javascript/langchain/multi-agent/subagents)
 
 候选 Python 库 `langgraph-supervisor-py` 的 README 已建议多数场景直接通过工具实现 supervisor 模式，因此不将该库作为当前 TS 学习主线。[来源](https://github.com/langchain-ai/langgraph-supervisor-py)
+
+## 2026-09-12 本机验证
+
+本机版本已确认为 2.1.198，并完成受控实验。任务文件、命名队友、真实工具序列与退出观察见 [实测报告](../experiments/claude-teams-2.1.198/report.md)。当前官方页面有高于本机版本的条目，不能直接套用。

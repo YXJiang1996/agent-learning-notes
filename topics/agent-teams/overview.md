@@ -41,3 +41,5 @@ Claude Code 的内部源码尚未取得或验证。本轮不把产品文档当�
 - [第一课](lessons/01-team-runtime.md)
 - [第一课检查题](../../assessments/2026-09-11-agent-teams-01.md)
 - [资料与版本记录](../../resources/agent-teams.md)
+
+- [产品实测第一课：Claude Code 2.1.198](../../experiments/claude-teams-2.1.198/report.md)（当前学习入口，原第一课保留作通用基础补充）

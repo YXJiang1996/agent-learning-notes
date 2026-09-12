@@ -85,4 +85,4 @@ Skill 文件和个人学习记录分别保存。安装后，每次指定学习�
 - [第一课检查题](assessments/2026-09-11-agent-teams-01.md)
 - [当前进度](progress/dashboard.md)
 
-第一课检查题已作答并反馈；下一步学习任务原子领取与完成协议。当前仍在学习中，尚未执行多 Agent 实验。
+已完成 [Claude Code 2.1.198 最小团队实测](experiments/claude-teams-2.1.198/report.md)，包含真实工具事件、任务 JSON 和退出观察。课程已改为产品证据优先；实验由助手操作，学习者掌握程度仍待验证。
