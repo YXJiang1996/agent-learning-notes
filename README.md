@@ -7,6 +7,7 @@
 | 主题 | 通用知识 | 实现分析 | 参考资料 |
 | --- | --- | --- | --- |
 | Agent Teams | [通用架构与协作机制](agent-teams/Agent%20Teams%20通用架构与协作机制.md) | [Claude Code Agent Teams 方案分析与洞察](agent-teams/Claude%20Code%20Agent%20Teams%20方案分析与洞察.md) | [参考资料](agent-teams/参考资料.md) |
+| Agent 记忆 | [基础与核心机制](agent-memory/Agent%20记忆基础与核心机制.md) | [Letta 记忆机制分析与洞察（含提示词中文全译）](agent-memory/Letta%20记忆机制分析与洞察.md) | [参考资料](agent-memory/参考资料.md) |
 
 ## 学习助手
 
