@@ -2,3 +2,9 @@ __pycache__/
 *.py[cod]
 .DS_Store
 *.tmp
+.learning-private/
+/sessions/
+/assessments/
+/learner/
+/plans/
+/progress/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 知识学习助手"
+  short_description: "制定 Agent 系统学习计划，研究产品实现，将结论整理为简洁中文知识库"
+  default_prompt: "使用 $learning-coach，围绕当前 Agent 主题制定学习计划，并将可复用结论整理到知识库，个人过程保留在本地。"
